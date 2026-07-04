@@ -1,0 +1,8 @@
+{
+  "build": "0.0.1A",
+  "modules": {
+    "supported": {
+      "com.squirrel.Discord.Discord":"https://raw.githubusercontent.com/etnl-xyz/Crown/refs/heads/main/Assets/Crown-Example-0-0-1A.json"
+    }
+  }
+}
